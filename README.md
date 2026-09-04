@@ -1,13 +1,13 @@
 # Meridian AI Agent System
 
-[![Support Ethereum - 0x3B3aD666744F1A96A55f7ef530C27cf694193f10](https://img.shields.io/badge/Support_Ethereum-0x3B3aD666744F1A96A55f7ef530C27cf694193f10-343493?logo=ethereum)](https://etherscan.io/address/0x3B3aD666744F1A96A55f7ef530C27cf694193f10)
+[![Support Base/EVM - 0xcFDa9f32d292661740a6d0B4c00867E34c05c56D](https://img.shields.io/badge/Support_Base-0xcFDa...56D-0052FF?logo=ethereum)](https://basescan.org/address/0xcFDa9f32d292661740a6d0B4c00867E34c05c56D)
 
-**Open-source tooling for AI agent deployment and optimization.** We build production-ready utilities for MCP servers, CrewAI orchestrators, and LLM context compression.
+**Production-grade tooling for autonomous AI agents, token economics, and outreach automation.**
 
-## Packages
+## Featured Repositories
 
-- **[meridian-mcp-deploy](https://github.com/meridianmindx/meridian-mcp-deploy)** – One-command deployment for MCP servers
-- **[meridian-crewai-deploy-orchestrator](https://github.com/meridianmindx/meridian-crewai-deploy-orchestrator)** – Cross-platform deployment orchestration for CrewAI agents
-- **[meridian-context-compression](https://github.com/meridianmindx/meridian-context-compression)** – LLM context compression utilities
+- **[meridian-context-compression](https://github.com/meridianmindx/meridian-context-compression)** – Intelligent LLM context compression utilities to reduce token costs by up to 80%
+- **[cold-email-suite](https://pypi.org/project/cold-email-suite/)** – Cold email templates and outreach automation framework on PyPI
+- **[cold-email-generator](https://pypi.org/project/cold-email-generator/)** – Interactive CLI sequence generator on PyPI
 
-All packages are MIT licensed and available on PyPI.
+All tools are open-source and MIT licensed.
